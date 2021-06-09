@@ -1,5 +1,3 @@
-### Hola 👋, mi nombre es Francisco Meneses
-#### Red Hat Integration Architect - STP LATAM
 ![Red Hat Integration Architect - STP LATAM](https://raw.githubusercontent.com/fmenesesg/fmenesesg/main/banner_fm.png)
 
 Soy un profesional de la tecnología de la información con más de 10 años de experiencia en el rubro. He trabajado como analista, desarrollador, consultor y líder técnico con clientes importantes en sectores públicos y privados.
