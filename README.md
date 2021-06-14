@@ -26,4 +26,4 @@ Habilidades: JAVA / SpringBoot / Quarkus / Camel / Kafka
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fmenesesg)  
 
-![Profile views](https://gpvc.arturio.dev/fmenesesg)  
+![Profile views](https://komarev.com/ghpvc/?username=fmenesesg)
